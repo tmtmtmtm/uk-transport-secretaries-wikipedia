@@ -1,0 +1,441 @@
+[
+  {
+    "item": {
+      "value": "Q3069915",
+      "label": "Paul Channon, Baron Kelvedon"
+    },
+    "statement": "Q3069915$AE25AFBA-CFB1-4786-8C11-B2E45E0306D6"
+  },
+  {
+    "item": {
+      "value": "Q7327922",
+      "label": "Richard Mottram"
+    },
+    "statement": "Q7327922$4379e83f-1206-4b53-831b-2a29662ccc3e"
+  },
+  {
+    "item": {
+      "value": "Q334362",
+      "label": "Fred Mulley"
+    },
+    "statement": "Q334362$BCDB6F69-3E6D-443B-95BB-A4418F6E833B"
+  },
+  {
+    "item": {
+      "value": "Q1700212",
+      "label": "John Gilbert, Baron Gilbert"
+    },
+    "statement": "Q1700212$D92FE7BE-7323-4060-85DF-6651ECB7DC1E"
+  },
+  {
+    "item": {
+      "value": "Q1555319",
+      "label": "Gus Macdonald"
+    },
+    "statement": "Q1555319$048EAE7F-38F3-4802-BBD0-B09A6AF23C33"
+  },
+  {
+    "item": {
+      "value": "Q5393524",
+      "label": "Ernest Marples"
+    },
+    "statement": "Q5393524$9AB67A62-4A4F-44CC-935C-DAFC70BCA66E"
+  },
+  {
+    "item": {
+      "value": "Q7279311",
+      "label": "Rachel Lomax"
+    },
+    "statement": "Q7279311$bcbf30b9-5bc8-4361-b02e-2071d0ad0fd7"
+  },
+  {
+    "item": {
+      "value": "Q334198",
+      "label": "John Baird, 1st Viscount Stonehaven"
+    },
+    "replaces": {
+      "value": "Q3703236",
+      "label": "David Lindsay, 27th Earl of Crawford"
+    },
+    "replacedBy": {
+      "value": "Q15452587",
+      "label": "Harry Gosling"
+    },
+    "statement": "Q334198$77AB1114-ECD7-4B3F-9CD8-F7DE5C16D3C8",
+    "start": "1922-10-31T00:00:00Z",
+    "end": "1924-01-22T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q122522",
+      "label": "Leslie Hore-Belisha"
+    },
+    "replaces": {
+      "value": "Q3497552",
+      "label": "Oliver Stanley"
+    },
+    "replacedBy": {
+      "value": "Q6530677",
+      "label": "Leslie Burgin"
+    },
+    "statement": "Q122522$DA50FAE3-F508-469F-9C27-B44BA6014A50",
+    "start": "1934-06-29T00:00:00Z",
+    "end": "1937-05-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2883936",
+      "label": "Barbara Castle, Baroness Castle of Blackburn"
+    },
+    "replaces": {
+      "value": "Q7815859",
+      "label": "Tom Fraser"
+    },
+    "replacedBy": {
+      "value": "Q333512",
+      "label": "Richard Marsh, Baron Marsh"
+    },
+    "statement": "Q2883936$95FE2DDF-ADB4-4768-82B5-1D399D1FF833",
+    "start": "1965-12-23T00:00:00Z",
+    "end": "1968-04-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333259",
+      "label": "William Rodgers"
+    },
+    "replaces": {
+      "value": "Q1700212",
+      "label": "John Gilbert, Baron Gilbert"
+    },
+    "replacedBy": {
+      "value": "Q332919",
+      "label": "Norman Fowler"
+    },
+    "statement": "Q333259$A96B22DC-5C9C-4461-8A67-E62EA340D8A4",
+    "start": "1976-09-10T00:00:00Z",
+    "end": "1979-05-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332919",
+      "label": "Norman Fowler"
+    },
+    "replaces": {
+      "value": "Q333259",
+      "label": "William Rodgers"
+    },
+    "replacedBy": {
+      "value": "Q333046",
+      "label": "David Howell, Baron Howell of Guildford"
+    },
+    "statement": "Q332919$B6A0828C-A8C4-4449-A274-5C87F37F1344",
+    "start": "1981-01-05T00:00:00Z",
+    "end": "1981-09-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q324805",
+      "label": "Nicholas Ridley, Baron Ridley of Liddesdale"
+    },
+    "replaces": {
+      "value": "Q333312",
+      "label": "Tom King, Baron King of Bridgwater"
+    },
+    "replacedBy": {
+      "value": "Q93557",
+      "label": "John Moore, Baron Moore of Lower Marsh"
+    },
+    "statement": "Q324805$93CC316C-66C1-4677-9144-E2AB4AD90941",
+    "start": "1983-06-11T00:00:00Z",
+    "end": "1986-05-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333312",
+      "label": "Tom King, Baron King of Bridgwater"
+    },
+    "replaces": {
+      "value": "Q333046",
+      "label": "David Howell, Baron Howell of Guildford"
+    },
+    "replacedBy": {
+      "value": "Q324805",
+      "label": "Nicholas Ridley, Baron Ridley of Liddesdale"
+    },
+    "statement": "Q333312$7F6A3D26-1678-480F-822F-B0BB6AC5A829",
+    "start": "1983-06-11T00:00:00Z",
+    "end": "1983-10-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q93557",
+      "label": "John Moore, Baron Moore of Lower Marsh"
+    },
+    "replaces": {
+      "value": "Q324805",
+      "label": "Nicholas Ridley, Baron Ridley of Liddesdale"
+    },
+    "replacedBy": {
+      "value": "Q3069915",
+      "label": "Paul Channon, Baron Kelvedon"
+    },
+    "statement": "Q93557$709FCAD3-7747-4048-BD64-158DE3828E77",
+    "start": "1986-05-21T00:00:00Z",
+    "end": "1987-06-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q327810",
+      "label": "Cecil Parkinson"
+    },
+    "replaces": {
+      "value": "Q3069915",
+      "label": "Paul Channon, Baron Kelvedon"
+    },
+    "replacedBy": {
+      "value": "Q333487",
+      "label": "Malcolm Rifkind"
+    },
+    "statement": "Q327810$16CECC01-CA59-446A-8FF0-58C2454F905F",
+    "start": "1989-07-24T00:00:00Z",
+    "end": "1990-11-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333487",
+      "label": "Malcolm Rifkind"
+    },
+    "replaces": {
+      "value": "Q327810",
+      "label": "Cecil Parkinson"
+    },
+    "replacedBy": {
+      "value": "Q332940",
+      "label": "John MacGregor, Baron MacGregor of Pulham Market"
+    },
+    "statement": "Q333487$9B12BB5A-414C-4D8B-B45B-E8329011A757",
+    "start": "1990-11-28T00:00:00Z",
+    "end": "1992-04-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332940",
+      "label": "John MacGregor, Baron MacGregor of Pulham Market"
+    },
+    "replaces": {
+      "value": "Q333487",
+      "label": "Malcolm Rifkind"
+    },
+    "replacedBy": {
+      "value": "Q333410",
+      "label": "Brian Mawhinney, Baron Mawhinney"
+    },
+    "statement": "Q332940$D1E49200-537A-4B69-9A36-B6BE6C70BE4B",
+    "start": "1992-04-11T00:00:00Z",
+    "end": "1994-07-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333410",
+      "label": "Brian Mawhinney, Baron Mawhinney"
+    },
+    "replaces": {
+      "value": "Q332940",
+      "label": "John MacGregor, Baron MacGregor of Pulham Market"
+    },
+    "replacedBy": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "statement": "Q333410$E697510E-AD0C-464F-984D-905BCF9E4F9A",
+    "start": "1994-07-20T00:00:00Z",
+    "end": "1995-07-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "replaces": {
+      "value": "Q333410",
+      "label": "Brian Mawhinney, Baron Mawhinney"
+    },
+    "replacedBy": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "statement": "Q259836$C9E765BE-C56F-45FC-BB89-DD1E2D9074AE",
+    "start": "1995-07-05T00:00:00Z",
+    "end": "1997-05-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333128",
+      "label": "Gavin Strang"
+    },
+    "replacedBy": {
+      "value": "Q333461",
+      "label": "John Reid, Baron Reid of Cardowan"
+    },
+    "statement": "Q333128$DFEFD94B-610E-4A16-BBB3-120B5E99EEB7",
+    "start": "1997-05-02T00:00:00Z",
+    "end": "1998-06-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332837",
+      "label": "Stephen Byers"
+    },
+    "replaces": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "replacedBy": {
+      "value": "Q296639",
+      "label": "Alistair Darling"
+    },
+    "statement": "Q332837$869FB295-62EE-4D3E-8A61-C2899C75225F",
+    "start": "2001-06-08T00:00:00Z",
+    "end": "2002-05-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q296639",
+      "label": "Alistair Darling"
+    },
+    "replaces": {
+      "value": "Q332837",
+      "label": "Stephen Byers"
+    },
+    "replacedBy": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "statement": "Q296639$B424A369-946F-4F3D-906B-D2499E45DDAF",
+    "start": "2002-05-29T00:00:00Z",
+    "end": "2006-05-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "replaces": {
+      "value": "Q296639",
+      "label": "Alistair Darling"
+    },
+    "replacedBy": {
+      "value": "Q272644",
+      "label": "Ruth Kelly"
+    },
+    "statement": "Q259106$B639F61D-9216-49DF-88A6-B2D1CEEDFEDA",
+    "start": "2006-05-06T00:00:00Z",
+    "end": "2007-06-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q272644",
+      "label": "Ruth Kelly"
+    },
+    "replaces": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "replacedBy": {
+      "value": "Q332385",
+      "label": "Geoff Hoon"
+    },
+    "statement": "Q272644$639476B8-6359-49F8-8605-6A2B1C1B8A13",
+    "start": "2007-06-27T00:00:00Z",
+    "end": "2008-10-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332385",
+      "label": "Geoff Hoon"
+    },
+    "replaces": {
+      "value": "Q272644",
+      "label": "Ruth Kelly"
+    },
+    "replacedBy": {
+      "value": "Q337156",
+      "label": "Andrew Adonis, Baron Adonis"
+    },
+    "statement": "Q332385$542492BA-5061-4116-A9D0-9D73A425821F",
+    "start": "2008-10-03T00:00:00Z",
+    "end": "2009-06-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "replaces": {
+      "value": "Q337156",
+      "label": "Andrew Adonis, Baron Adonis"
+    },
+    "replacedBy": {
+      "value": "Q333012",
+      "label": "Justine Greening"
+    },
+    "statement": "Q332987$41b644bc-4ed6-e290-2b9b-b654c0cd3029",
+    "start": "2010-05-11T00:00:00Z",
+    "end": "2011-10-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333012",
+      "label": "Justine Greening"
+    },
+    "replaces": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "replacedBy": {
+      "value": "Q333267",
+      "label": "Patrick McLoughlin"
+    },
+    "statement": "Q333012$3d42bda6-4440-bdeb-df99-a144286aad21",
+    "start": "2011-10-14T00:00:00Z",
+    "end": "2012-09-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333267",
+      "label": "Patrick McLoughlin"
+    },
+    "replaces": {
+      "value": "Q333012",
+      "label": "Justine Greening"
+    },
+    "replacedBy": {
+      "value": "Q337453",
+      "label": "Chris Grayling"
+    },
+    "statement": "Q333267$B16C3261-7E44-4BF0-AA95-3FE124938455",
+    "start": "2012-09-04T00:00:00Z",
+    "end": "2016-07-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q337453",
+      "label": "Chris Grayling"
+    },
+    "replaces": {
+      "value": "Q333267",
+      "label": "Patrick McLoughlin"
+    },
+    "statement": "Q337453$7ee4b391-42fd-783d-f5c4-8d2864677a4f",
+    "start": "2016-07-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q478596",
+      "label": "Grant Shapps"
+    },
+    "statement": "Q478596$ec799617-4c4c-b4ad-cf7c-6f0f47767499",
+    "start": "2019-07-24T00:00:00Z"
+  }
+]
