@@ -125,3 +125,8 @@ changed those claims.
 Mottram and Lomax were Permanent Secretary to the Dft (Q86689290), not a
 minister, so I've updated those as well.
 
+It also looks like I messed up the 'replaces' field for all the people I
+munged by hand in the awkward 1941-1953 period, so I've also had to fix
+them up manually.
+
+Final version at https://www.wikidata.org/w/index.php?title=Talk:Q3246797&oldid=1233234626
