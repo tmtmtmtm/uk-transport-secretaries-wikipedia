@@ -22,17 +22,12 @@ class ListPage < Scraped::HTML
   def list
     noko.xpath('.//table[.//th[contains(
       translate(., "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"),
-    "term of office")]]').first
+    "term of office")]]')
   end
 end
 
 # Each officeholder in the list
 class HolderItem < Scraped::HTML
-  field :ordinal do
-    # Only want simple integer versions
-    ordinal_text if ordinal_text.to_s == ordinal_text.to_i.to_s
-  end
-
   field :id do
     name_cell.css('a/@wikidata').map(&:text).first
   end
@@ -75,13 +70,9 @@ class HolderItem < Scraped::HTML
     end_date_cell.text.tidy
   end
 
-  def ordinal_text
-    ordinal_cell.text.tidy
-  end
-
   def table_headings
     # don't cache, as there may be multiple tables with different layouts
-    noko.xpath('parent::table//tr[.//th][1]//th').map(&:text).map(&:tidy)
+    noko.xpath('ancestor::table//tr[.//th][1]//th').map(&:text).map(&:tidy)
   end
 
   def columns_headed(str)
@@ -91,11 +82,7 @@ class HolderItem < Scraped::HTML
   end
 
   def name_cell
-    tds[columns_headed('Name').first]
-  end
-
-  def ordinal_cell
-    tds[columns_headed('No.').last]
+    tds[columns_headed('Name').last || columns_headed('Transport').last]
   end
 
   def start_date_cell
